@@ -1,3 +1,4 @@
+The clinic project is a web app designed to streamline communication between doctors and receptionists. It will be managed by two admins: the doctor and the receptionist. The doctor can add receptionists, and the receptionist can add patients who are visiting the clinic and save their details in the database. This project was created using HTML, CSS, Bootstrap, JavaScript, and React Js technologies. Use API for doctor/receptionist registration and login. Implement Redux for storing data. When a doctor logs in, they will see the doctor menu, and when a receptionist logs in, they will see a different menu
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
